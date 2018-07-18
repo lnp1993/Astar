@@ -1,6 +1,6 @@
 # Astar
 Astar_algorithm
-代码主要参考https://blog.csdn.net/u012234115/article/details/47152137，修复该篇博客算法里的小bug
+代码主要参考https://blog.csdn.net/u012234115/article/details/47152137
 
 该篇博客主要存在两个bug（可以尝试把地图改成20*20，程序可能直接崩）：
 
